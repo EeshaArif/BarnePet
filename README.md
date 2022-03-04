@@ -6,11 +6,13 @@ BarnePet comes from the Norwegian word `BarnePike` which means Nanny.
 The application is a platform which connects local pet sitters to pet owners
 #### 1.3. Motivation/Need
 In the country, there is a huge untapped market of pet owners and hence, this project provides a service which experiments on that market. Also, personal experiences of having a difficult time finding a safe place to keep my pets when I have to travel or leave endorses the fact that this could be a need of pet owners in the region. 
+#### 1.4 Market Research
+Similar products like this do exist such as PAWSHAKE, ROVER—DOG SITTERS & WALKERS, TRUSTEDHOUSESITTERS and BRINGFIDO but these are restricted to the international market and no such application exists in the country.
 
 ### 2. Features
-The application will have the following highlevel features
+The application will have the following high level features
 1. A signUp/login page
-2. A home page displaying list of sitters. (can be filtered by area, price, age, number of pets present etc)
+2. A home page displaying a list of sitters. (can be filtered by area, price, age, number of pets present etc)
    - An action button to enlist as a sitter
    - A profile button to see statistics (as a sitter)
    - logout button
@@ -30,7 +32,7 @@ The application will have the following highlevel features
    - charges
 6. The owner can rate the experience with the sitter and this will be reflected on the sitter's profile
 
-### Concepts covered
+### 3. Concepts covered
 As the features listed above portray: 
 - The application will have multiple pages and require navigation.
 - The sitters and users profile data/statistics need to be stored on Firebase/Firestore backend
